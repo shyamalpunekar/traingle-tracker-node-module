@@ -1,0 +1,4 @@
+open jshintrc
+{
+  "esversion": 6
+}

@@ -1,0 +1,28 @@
+{
+  "name": "triangle-tracker",
+  "description": "triangle sides",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "test",
+    "sides",
+    "of",
+    "triangle"
+  ],
+  "authors": [
+    "shyamal"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "boostrap#^3.3.7"
+  }
+}
